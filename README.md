@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9eea6c,100:3f9a0c&height=200&section=header&text=Hi,%20I'm%20Nordic%20%F0%9F%91%8B&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-stack%20builder%20%C2%B7%20creator%20of%20Trustly&descAlignY=60&descSize=18" alt="Nordic" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9eea6c,100:3f9a0c&height=200&section=header&text=Hi,%20I'm%20Nordic%20%F0%9F%91%8B&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full-stack%20builder%20%C2%B7%20TypeScript%20%26%20Swift%20%C2%B7%20ships%20products&descAlignY=60&descSize=18" alt="Nordic" />
 
 <p>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=astronordic&color=58c411&style=for-the-badge&label=Profile+views" />
@@ -8,7 +8,7 @@
 
 <p>
   <b>Full-stack builder</b> — turning ideas into shipped products.<br/>
-  <em>TypeScript end-to-end · API + web + admin · obsessed with clean UX and solid foundations.</em>
+  <em>TypeScript end-to-end · native macOS in Swift · obsessed with clean UX and solid foundations.</em>
 </p>
 
 </div>
@@ -18,21 +18,40 @@
 ## 👨‍💻 About me
 
 - 🔭 &nbsp;I'm currently building **Trustly** — a PIX escrow platform for safe middleman deals.
-- 🧰 &nbsp;I work **full-stack in TypeScript**: REST + WebSocket APIs, Next.js front-ends, MongoDB, real-time.
+- 🧹 &nbsp;I just shipped **[Cleanfy](https://github.com/astronordic/cleanfy)** — a native **macOS** cleaner in SwiftUI.
+- 🧰 &nbsp;I work **full-stack in TypeScript** (APIs · web · admin) and build **native macOS apps in Swift**.
 - 🧱 &nbsp;I care about **architecture, security and DX** — clean foundations that scale.
-- 🎯 &nbsp;Design-minded engineer: I sweat the details of **UX and visual polish**.
 - ⚡ &nbsp;Philosophy: **make it work → make it right → make it beautiful.**
+
+> 🧭 Every one of my repos follows a shared **[Nordic Standard](https://github.com/astronordic/.github)** — consistent READMEs, licensing, commits and CI.
 
 ---
 
-## 🚀 Featured project — Trustly
+## 🚀 Featured projects
 
-> **Trustly** — _escrow PIX para middleman._ A platform that holds a buyer's PIX payment **in custody** until
-> delivery is confirmed, so neither side gets scammed. Real-time chat per deal, reputation/XP, a scammer
-> blacklist (TrustGuard) and a full admin panel.
+### 🧹 [Cleanfy](https://github.com/astronordic/cleanfy) &nbsp;·&nbsp; native macOS cleaner <sub>(public)</sub>
+
+> A disk cleaner & live memory monitor for macOS, built in SwiftUI. Frees space you can **trust**: a
+> mandatory list + confirmation, a hard denylist, and a **three-layer safety net** with the domain logic
+> in a fully unit-tested framework (24 tests). Animated "Aurora Glass" UI.
 >
-> **Stack:** Express · MongoDB · Socket.IO · Next.js · React · Tailwind · Redis · Cloudflare.
-> &nbsp;·&nbsp; _Private repo — product in production._ 🔒
+> **Stack:** Swift · SwiftUI · XCTest · XcodeGen · GitHub Actions &nbsp;·&nbsp; 🌐 _Public — source-available._
+>
+> [![Cleanfy CI](https://github.com/astronordic/cleanfy/actions/workflows/ci.yml/badge.svg)](https://github.com/astronordic/cleanfy/actions/workflows/ci.yml)
+
+### 🛡️ Trustly &nbsp;·&nbsp; PIX escrow for middleman deals <sub>(private · in production)</sub>
+
+> Holds a buyer's PIX payment **in custody** until delivery is confirmed, so neither side gets scammed.
+> Real-time chat per deal, reputation/XP, a scammer blacklist (TrustGuard) and a full admin panel.
+>
+> **Stack:** Express · MongoDB · Socket.IO · Next.js · React · Tailwind · Redis · Cloudflare &nbsp;·&nbsp; 🔒 _Private._
+
+### 💸 financeapp &nbsp;·&nbsp; personal & business finance SaaS <sub>(private)</sub>
+
+> A pt-BR finance SaaS: income/expense, budgets, goals, investments, cards, reports and an **AI assistant**
+> over real data. Pix-only paid plans, per-user isolation via Supabase RLS, "Casa-Forte" light/dark design.
+>
+> **Stack:** Next.js · React · TypeScript · Supabase · Tailwind &nbsp;·&nbsp; 🔒 _Private._
 
 ---
 
@@ -43,6 +62,7 @@
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
 
 **Frontend**
@@ -51,6 +71,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0A0B12?style=for-the-badge&logo=swift&logoColor=16E0C0" />
 </p>
 
 **Backend**
@@ -65,6 +86,7 @@
 **Data & cache**
 
 <p>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -84,6 +106,7 @@
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
