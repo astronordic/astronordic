@@ -20,7 +20,7 @@ products earn trust.
 </p>
 
 <p>
-  <a href="https://trustlymm.com"><img src="docs/card-trustly.svg" alt="Trustly MM — PIX escrow for middlemen" width="100%" /></a><br/>
+  <a href="https://trustlymm.com"><img src="docs/card-trustly.svg" alt="Trustly — PIX escrow for professional middlemen" width="100%" /></a><br/>
   <sub>Private · live at trustlymm.com</sub>
 </p>
 
