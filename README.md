@@ -8,30 +8,9 @@
 
 ---
 
-Full-stack engineer. I build software end-to-end and obsess over the parts
-you don't see — architecture, security, consistency — because that's where
-products earn trust.
+I build things properly. Most of them you'll never see.
 
-## Selected work
-
-<p>
-  <a href="https://github.com/astronordic/cleanfy"><img src="docs/card-cleanfy.svg" alt="Cleanfy — native macOS cleaner and memory monitor" width="100%" /></a><br/>
-  <sub>Public — source-available. Safety-critical core, fully unit-tested.</sub>
-</p>
-
-<p>
-  <a href="https://trustlymm.com"><img src="docs/card-trustly.svg" alt="Trustly — PIX escrow for professional middlemen" width="100%" /></a><br/>
-  <sub>Private · live at trustlymm.com</sub>
-</p>
-
-<p>
-  <img src="docs/card-financeapp.svg" alt="FinanceApp — personal and business finance SaaS" width="100%" /><br/>
-  <sub>Private</sub>
-</p>
-
-## The standard
-
-Every repo here follows the [Nordic Standard](https://github.com/astronordic/.github) — the full spec lives in [STANDARD.md](https://github.com/astronordic/.github/blob/main/STANDARD.md).
+<sub>Consistency is the feature. Security is a posture, not a feature. Boring technology, exciting results.</sub>
 
 ---
 
