@@ -1,0 +1,21 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="nordic — full-stack engineer. The Nordic Standard.">
+  <title>nordic — full-stack engineer</title>
+  <defs>
+    <linearGradient id="wordmark" x1="640" y1="238" x2="640" y2="332" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#B9C0CE"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="#0A0A0C"/>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+
+  <!-- wordmark -->
+  <text x="640" y="330" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="120" font-weight="800" letter-spacing="-2.5" fill="url(#wordmark)">nordic</text>
+
+  <!-- eyebrow -->
+  <text x="640" y="392" text-anchor="middle" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', 'Cascadia Code', 'Segoe UI Mono', Consolas, monospace" font-size="22" font-weight="500" letter-spacing="6" fill="#8A8F98">FULL-STACK ENGINEER &#183; THE NORDIC STANDARD</text>
+</svg>
