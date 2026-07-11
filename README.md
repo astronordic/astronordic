@@ -1,16 +1,13 @@
 # nordic
 
-Full-stack engineer.
+Full-stack engineer. I build software end-to-end and obsess over the parts
+you don't see — architecture, security, consistency — because that's where
+products earn trust.
 
-I build products end-to-end — APIs, web apps, native apps — with care for
-architecture, security, and developer experience: clean foundations that scale.
-Make it work, make it right, make it beautiful.
+I'd rather ship one thing built properly than ten built fast.
 
-## Stack
-
-TypeScript · Node.js · Express · Next.js · React · Swift · SwiftUI ·
-MongoDB · Redis · Supabase · Tailwind CSS · GitHub Actions
+Make it work → make it right → make it beautiful.
 
 ---
 
-Every repository here follows the [Nordic Standard](https://github.com/astronordic/.github).
+<sub>TypeScript · Swift · whatever the product needs — every repo here follows the [Nordic Standard](https://github.com/astronordic/.github).</sub>
