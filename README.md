@@ -1,18 +1,10 @@
 # nordic
 
-Full-stack engineer. TypeScript end-to-end; native macOS in Swift.
+Full-stack engineer.
 
-I build products, not demos — and I care about architecture, security, and developer
-experience: clean foundations that scale. Make it work, make it right, make it beautiful.
-
-## Now
-
-- **[Trustly](https://trustlymm.com)** — PIX escrow platform for safe middleman deals.
-  Express, MongoDB, Socket.IO, Next.js. Private · in production.
-- **[Cleanfy](https://github.com/astronordic/cleanfy)** — native macOS disk cleaner and
-  live memory monitor in SwiftUI, with a unit-tested safety core. Public.
-- **FinanceApp** — personal and business finance SaaS for the Brazilian market.
-  Next.js, Supabase, Pix billing. Private.
+I build products end-to-end — APIs, web apps, native apps — with care for
+architecture, security, and developer experience: clean foundations that scale.
+Make it work, make it right, make it beautiful.
 
 ## Stack
 
