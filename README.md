@@ -2,7 +2,7 @@
 
 # nordic
 
-<sub>developer</sub>
+<sub>full stack developer</sub>
 
 <br>
 <br>
