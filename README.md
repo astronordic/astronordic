@@ -1,10 +1,9 @@
 # nordic
 
-Full-stack developer focused on web applications, APIs and databases.
+Desenvolvimento full-stack com foco em aplicações web, APIs e bancos de dados.
 
-I work across application development and infrastructure,
-with an emphasis on maintainability and clear, reliable systems.
+Trabalho com desenvolvimento e infraestrutura, priorizando sistemas claros, confiáveis e fáceis de manter.
 
-### Technologies
+## Tecnologias
 
 TypeScript · Node.js · Python · Swift · PostgreSQL
