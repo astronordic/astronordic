@@ -1,15 +1,15 @@
 <div align="center">
 
-![Capa de nordic](docs/assets/repository-cover.svg)
+![nordic's profile cover](docs/assets/repository-cover.svg)
 
 # nordic
 
-**Desenvolvimento full-stack com foco em aplicações web, APIs e bancos de dados.**
+**Full-stack development focused on web applications, APIs, and databases.**
 
 <sub>TypeScript · Node.js · Python · Swift · PostgreSQL</sub>
 
 </div>
 
-## Visão geral
+## Overview
 
-Trabalho com desenvolvimento e infraestrutura, priorizando sistemas claros, confiáveis e fáceis de manter.
+I work across application development and infrastructure, with a focus on clear, reliable, maintainable systems.

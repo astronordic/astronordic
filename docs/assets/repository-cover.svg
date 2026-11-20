@@ -4,7 +4,7 @@
   <rect x="1" y="1" width="1078" height="222" rx="18" fill="none" stroke="#344258" stroke-width="2"/>
   <path d="M842 25h168v174H842zM812 47h220v130H812zM868 11v201m118-201v201" fill="none" stroke="#25334a" stroke-width="1"/>
   <path d="M51 54h38" stroke="#8ad8ff" stroke-width="3" stroke-linecap="round"/>
-  <text x="105" y="59" fill="#8ad8ff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2">APLICAÇÕES / APIs / INFRAESTRUTURA</text>
+  <text x="105" y="59" fill="#8ad8ff" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="2">APPLICATIONS / APIs / INFRASTRUCTURE</text>
   <text x="49" y="129" fill="#f7f9fd" font-family="Inter, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="-1.6">nordic</text>
   <path d="M51 171h716" stroke="#344258"/>
   <text x="51" y="195" fill="#a6b5cc" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.15">github.com/astronordic</text>

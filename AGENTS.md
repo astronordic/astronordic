@@ -1,5 +1,5 @@
-# Guia do repositório
+# Repository guide
 
-- `README.md` é a apresentação pública de nordic no GitHub. Preserve a identidade e as informações profissionais já confirmadas.
-- Use português no texto principal. Valide links e confirme que imagens, links e texto podem ser publicados antes de incluí-los. Use referências públicas verificadas.
-- Execute `git diff --check` e confira o README renderizado na aba do repositório. O perfil é conteúdo Markdown, sem dependências de build ou testes de aplicação.
+- `README.md` is nordic's public GitHub profile. Preserve the existing identity and verified professional details.
+- Write profile content in English. Check links and confirm that images, links, and text are suitable for public release. Cite verified public sources.
+- Run `git diff --check` and review the rendered README on GitHub. This profile uses Markdown and requires no build or application tests.
