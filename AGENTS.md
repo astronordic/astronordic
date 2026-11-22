@@ -10,4 +10,4 @@ Write repository documentation, GitHub content, and internal code in English. Us
 
 ## Repository presentation
 
-Keep the README short and text-first. Use the project name, a concrete description, and the minimum needed to use it. End with a command or a few useful links. Use plain Markdown without emojis, badges, banners, decorative HTML, or repeated navigation. Keep detailed setup and operating notes in the relevant guide.
+Keep the README clean and informative. Introduce the project and its audience, then describe a concrete workflow and the features that support it. Use a relevant emoji in the title and each section heading. Finish with a technical section covering the actual stack, entry points, setup or verification commands, and links to deeper guides. Use plain Markdown without banners, badges, or repeated navigation.
