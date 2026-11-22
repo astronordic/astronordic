@@ -7,3 +7,9 @@
 ## Language
 
 Write repository documentation, GitHub content, and internal code in English. Use Brazilian Portuguese for user-facing website, application, and bot text. Preserve compatibility with existing data, integrations, public commands, and explicit locale options.
+
+## Repository presentation
+
+Open the README with one relevant emoji, the project name, and a plain-English description of who uses it and why. Put features and usage before technical details. Keep setup, architecture, configuration, tests, and operational references together at the end. Use standard Markdown and omit decorative banners.
+
+Keep this guide specific to the project. Update entry points, commands, and constraints when their source changes. Link to focused guides when a component needs its own instructions.
