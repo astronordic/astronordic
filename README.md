@@ -2,11 +2,15 @@
 
 **Full-stack development focused on web applications, APIs, and databases.**
 
-## Overview
+<a id="overview"></a>
+
+## 🔎 Overview
 
 I work across application development and infrastructure, with a focus on clear, reliable, maintainable systems.
 
-## Technical details
+<a id="technical-details"></a>
+
+## 🛠️ Technical details
 
 <sub>TypeScript · Node.js · Python · Swift · PostgreSQL</sub>
 
